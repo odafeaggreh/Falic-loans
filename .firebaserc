@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "falic-dev"
+  },
+  "targets": {
+    "falic-dev": {
+      "hosting": {
+        "landing": [
+          "falic-dev"
+        ],
+        "app": [
+          "falic-app"
+        ]
+      }
+    }
+  }
+}
