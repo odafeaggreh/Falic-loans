@@ -25,8 +25,9 @@ function App() {
               path="/updateDetailes"
               component={UpdateProfile}
             />
-            <Route path="/signup" component={Signup} />
+
             <Route path="/signin" component={Signin} />
+            <Route path="/signup" component={Signup} />
             <Route path="/forgotPassword" component={ForgotPass} />
           </Switch>
         </AuthProvider>

@@ -40,31 +40,31 @@ export default function AuthAppBar() {
           <div className={classes.title}>
             <img src={Logo} alt="Logo" />
           </div>
-          <a href='https://falic.digital/'
+          <a href='myafricanfuturetrust.com'
             style={{textDecoration: 'none'}}
           >
             <Button color="black">Home</Button>
           </a>
 
-          <a href='https://falic.digital/services.html'
+          <a href='myafricanfuturetrust.comservices.html'
             style={{textDecoration: 'none'}}
           >
             <Button color="black">services</Button>
           </a>
 
-          <a href='https://falic.digital/funding.html'
+          <a href='myafricanfuturetrust.comfunding.html'
             style={{textDecoration: 'none'}}
           >
             <Button color="black">funding</Button>
           </a>
           
-          <a href='https://falic.digital/loans.html'
+          <a href='myafricanfuturetrust.comloans.html'
             style={{textDecoration: 'none'}}
           >
             <Button color="black">loans</Button>
           </a>
 
-          <a href='https://falic.digital/contact.html'
+          <a href='myafricanfuturetrust.comcontact.html'
             style={{textDecoration: 'none'}}
           >
             <Button color="black">Contact</Button>

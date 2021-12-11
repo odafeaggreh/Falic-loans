@@ -8,10 +8,12 @@
         "**/.*",
         "**/node_modules/**"
       ],
-      "rewrites": [{
-        "source": "**",
-        "destination": "/index-2.html"
-      }]
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index-2.html"
+        }
+      ]
     },
     {
       "target": "app",
@@ -21,10 +23,12 @@
         "**/.*",
         "**/node_modules/**"
       ],
-      "rewrites": [{
-        "source": "**",
-        "destination": "/index.html"
-      }]
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
     }
   ]
 }
